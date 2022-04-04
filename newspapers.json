@@ -1,0 +1,70 @@
+[
+  {
+ "version":"1",
+ "results":[
+      {
+        "id": "D94131F3-0548-470A-99BB-FDC527A80C5E",
+        "name": "Journal Du Coin",
+        "language": "FR",
+        "link": "https://journalducoin.fr",
+        "type": "wp-json"
+      },
+      {
+        "id": "5043771D-3445-4769-B394-FABDB961799D",
+        "name": "Cryptoast",
+        "language": "FR",
+        "link": "https://cryptoast.fr",
+        "type": "wp-json"
+      },
+      {
+        "id": "51CB7E9E-2A7F-4DC9-A364-941EAE3BDC45",
+        "name": "CoinAcademy",
+        "language": "FR",
+        "link": "https://coinacademy.fr",
+        "type": "wp-json"
+      },
+      {
+        "id": "D2BDCCD6-B6DC-441E-922B-11A1F9C14A17",
+        "name": "CoinAcademy",
+        "language": "ES",
+        "link": "https://coinacademy.es",
+        "type": "wp-json"
+      },
+      {
+        "id": "8F9A63E0-C4CA-4EF6-82A5-AFB4DBFA41A9",
+        "name": "CoinAcademy",
+        "language": "EN",
+        "link": "https://thecoinacademy.co",
+        "type": "wp-json"
+      },
+      {
+        "id": "B3DC86CA-55C6-4023-81F4-68284397514D",
+        "name": "Bitcoin.fr",
+        "language": "FR",
+        "link": "https://bitcoin.fr",
+        "type": "wp-json"
+      },
+      {
+        "id": "A6D0D6D9-3980-42CC-915F-45B524574495",
+        "name": "Coindesk",
+        "language": "EN",
+        "link": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
+        "type": "rss"
+      },
+      {
+        "id": "568CB4DA-82B7-45F2-A997-21F23C89956D",
+        "name": "CoinTelegraph",
+        "language": "FR",
+        "link": "https://fr.cointelegraph.com/rss",
+        "type": "rss"
+      },
+      {
+        "id": "CA16FCB2-93BA-4495-9C7F-2EBED772D38D",
+        "name": "CoinTelegraph",
+        "language": "EN",
+        "link": "https://cointelegraph.com/rss",
+        "type": "rss"
+      }
+    ]
+  }
+]
